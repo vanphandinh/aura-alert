@@ -31,7 +31,7 @@ docker logs -f --tail 20 tenderduty
 
 ## TenderDuty Dashboard
 Your dashboard will be public at **http://YOUR_SERVER_IP:8888**\
-For instance, my dashboard is http://aura.accelerationlabs.org:8888
+For instance, my dashboard is http://aura.chainno.de:8888
 ![dashboard screenshot](images/dashboard.png)
 
 ## Public RPCs
